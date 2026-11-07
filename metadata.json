@@ -1,0 +1,6 @@
+{
+  "name": "Discord Activity Master (DAM)",
+  "description": "輕量化 Windows 進程模擬與 Discord 狀態管理自動化系統 - 低資源遊戲狀態回報、Active Developer 勳章維護、Quests 任務信號器與時數推算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

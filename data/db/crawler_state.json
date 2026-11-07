@@ -1,0 +1,11 @@
+{
+  "isInitialized": true,
+  "isRunning": true,
+  "lastRunTimestamp": "2026-11-07T10:17:37.132Z",
+  "nextRunTimestamp": "2026-11-08T10:17:37.132Z",
+  "totalSyncedBadges": 35,
+  "syncIntervalHours": 24,
+  "lastError": null,
+  "databasePath": "/app/applet/data/db/discord_badges_database.json",
+  "cdnGatewayStatus": "operational"
+}
